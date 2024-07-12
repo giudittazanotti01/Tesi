@@ -1,0 +1,317 @@
+names;nd;sd;ndsd;zero;tot;delete
+name;0;0;0;0;0;
+fiscal_code;0;0;0;0;0;
+city;0;0;0;0;0;
+CCIAA_code;0;0;0;0;0;
+Stato giuridico;0;0;0;0;0;
+Forma giuridica;0;0;0;0;0;
+Numero di anni disponibili;0;0;0;0;0;
+Data di costituzione;0;0;0;0;0;
+Ultimo modello di contabilità - Bilancio;0;0;0;0;0;
+Indicatore d'Indipendenza BvD;0;0;0;0;0;
+No of companies in corporate group;0;0;0;0;0;
+N° azionisti registrati;0;0;0;0;0;
+N° partecipate registrate;0;0;0;3,36;3,36;
+Principale Borsa;0;0;0;0;0;
+Descrizione attività italiano;0;0;0;0;0;
+Descrizione attività inglese;0;0;0;0;0;
+Ateco 2007;0;0;0;0;0;
+SAE code;0;0;0;0;0;
+RAE code;0;0;0;0;0;
+  Ricavi delle vendite;0;0;0;0;0;
+  EBITDA;5,84;0;5,84;0;5,84;
+  Utile Netto;0,31;0;0,31;0,03;0,34;
+  Totale Attività;0;0;0;0;0;
+  Patrimonio Netto;2,41;0;2,41;0;2,41;
+  Posizione finanziaria netta;8,26;0;8,26;0;8,26;
+  EBITDA/Vendite (%);6,49;1,83;8,32;0;8,32;
+  Redditività delle vendite (ROS) (%);6,49;17,64;24,13;0;24,13;
+  Redditività del totale attivo (ROA) (%);0;0;0;0;0;
+  Redditività del capitale proprio (ROE) (%);2,72;3,19;5,91;0,03;5,95;
+  Debt/Equity ratio;8,26;0;8,26;10,43;18,69;
+  Debiti v/banche su fatt. (%);8,83;18,82;27,66;10,53;38,19;
+  Debt/EBITDA ratio;8,26;0,37;8,63;8,49;17,13;
+  Rotaz. cap. investito (volte);0;0,27;0,27;6,29;6,56;
+  Dipendenti;0,07;0;0,07;0,71;0,78;
+ A. CREDITI VERSO SOCI;5,84;0;5,84;91,64;97,49;togliere
+   Quota di capitale richiamata;6,86;0;6,86;92,9;99,76;togliere
+ B. TOTALE IMMOBILIZZAZIONI sep.ind. Di quelle conc. In loc. Finanz.;5,84;0;5,84;0,31;6,15;
+  B.I. TOTALE IMMOB. IMMATERIALI;5,84;0;5,84;7;12,84;
+   B.I.1. Costi impianto e ampl.;13,73;0;13,73;68,98;82,7;togliere
+   B.I.2. Costi ricerca e pubb.;13,73;0;13,73;63,91;77,64;togliere
+   B.I.3. Diritti brevetto ind.;13,73;0;13,73;43,49;57,22;togliere
+   B.I.4. Concessioni, licenze;13,73;0;13,73;41,45;55,18;togliere
+   B.I.5. Avviamento/Differenza di consolidamento;13,73;0;13,73;57,76;71,49;togliere
+    di cui: Avviamento;39,38;0;39,38;33,81;73,19;togliere
+   B.I.6. Imm. in corso;13,73;0;13,73;52,09;65,82;togliere
+   B.I.7. Altre immobiliz. Immateriali;13,73;0;13,73;26,44;40,16;togliere
+   Fondo amm.to Immob. Immateriali;74,45;0;74,45;0,14;74,58;togliere
+  B.II. TOTALE IMMOB. MATERIALI;5,84;0;5,84;3,43;9,28;
+    di cui: Beni materiali concessi in locazione finanziaria;98,27;0;98,27;1,73;100;togliere
+   B.II.1. Terreni e fabbricati;13,39;0;13,39;32,25;45,63;togliere
+   B.II.2. Impianti;13,39;0;13,39;24,91;38,29;togliere
+   B.II.3. Attrez. industriali;13,39;0;13,39;36,49;49,88;togliere
+   B.II.4. Altri beni;13,39;0;13,39;9,82;23,21;togliere
+   B.II.5. Imm. in corso/acconti;13,39;0;13,39;52,06;65,44;togliere
+   Fondo amm.to Immob. Materiali;61,16;0;61,16;0,1;61,26;togliere
+  B.III. TOTALE IMMOB. FINANZIARIE;5,84;0;5,84;5,16;11,01;
+    di cui: esigibili entro l'esercizio successivo;42,78;0;42,78;43,83;86,61;togliere
+   B.III.1. TOT Partecipazioni;9,96;0;9,96;9,14;19,1;togliere
+    B.III.1.a. Imprese controllate;10,09;0;10,09;17,64;27,73;togliere
+    B.III.1.b. Imprese collegate;10,09;0;10,09;61,64;71,73;togliere
+    B.III.1.c. Imprese controllanti;10,09;0;10,09;89,7;99,8;togliere
+    B.III.1.d. In imprese sottoposte al controllo delle controllanti;40,64;0;40,64;59,26;99,9;togliere
+    B.III.1.d.bis. Altre imprese;10,09;0;10,09;47,84;57,93;togliere
+   B.III.2. TOT CREDITI Imm. Fin.;7,99;0;7,99;20,97;28,95;
+    B.III.2.a. Cred. vs Controllate entro;8,53;0;8,53;85,46;93,99;togliere
+    B.III.2.a. Cred. vs Controllate oltre;9,21;0;9,21;67,41;76,62;togliere
+    B.III.2.b. Cred. vs Collegate entro;8,53;0;8,53;89,36;97,89;togliere
+    B.III.2.b. Cred. vs Collegate oltre;9,21;0;9,21;81,82;91,03;togliere
+    B.III.2.c. Cred. vs Controllanti entro;8,53;0;8,53;91,1;99,63;togliere
+    B.III.2.c. Cred. vs Controllanti oltre;9,21;0;9,21;89,74;98,95;togliere
+    B.III.2.d. Cred. vs imprese sottoposte al controllo delle controllanti entro;40,57;0;40,57;59,19;99,76;togliere
+    B.III.2.d. Cred. vs imprese sottoposte al controllo delle controllanti oltre;40,6;0;40,6;59,29;99,9;togliere
+    B.III.2.d.bis. Cred. vs Altri entro;8,53;0;8,53;82,84;91,37;togliere
+    B.III.2.d.bis Cred. vs Altri oltre;9,21;0;9,21;35,64;44,85;togliere
+   B.III. CREDITI FIN. A BREVE;7,99;0;7,99;78,32;86,31;togliere
+   B.III. CREDITI FIN. A OLTRE;7,99;0;7,99;27,12;35,1;togliere
+   B.III.3. Altri titoli;9,96;0;9,96;73,12;83,08;togliere
+   B.III.3.bis. Azioni proprie;9,96;0;9,96;84,98;94,94;togliere
+   B.III.4. Strumenti finanziari derivati attivi;40,57;0;40,57;53,28;93,85;togliere
+   Azioni proprie DI CUI: Val nominale;7,88;0;7,88;92,05;99,93;togliere
+ C. ATTIVO CIRCOLANTE;5,84;0;5,84;0;5,84;
+  C.I. TOTALE RIMANENZE;5,84;0;5,84;33,61;39,45;
+   C.I.1. Materie prime;10,06;0;10,06;52,4;62,45;togliere
+   C.I.2. Prodotti semilav./in corso;10,06;0;10,06;65,68;75,74;togliere
+   C.I.3. Lavori in corso;10,06;0;10,06;79,58;89,64;togliere
+   C.I.4. Prodotti finiti;10,06;0;10,06;44,21;54,26;togliere
+   C.I.5. Acconti;10,06;0;10,06;79,31;89,36;togliere
+   Immobilizzazioni materiali destinate alla vendita;38,57;0;38,57;60,75;99,32;togliere
+  C.II. TOTALE CREDITI;5,84;0;5,84;0,03;5,88;
+   C.II.1. Cred. vs Clienti entro;8,02;0;8,02;4,42;12,44;togliere
+   C.II.1. Cred. vs Clienti oltre;6,56;0;6,56;85,15;91,71;togliere
+   C.II.2. Cred. vs Controllate entro;17,97;0;17,97;41,9;59,87;togliere
+   C.II.2. Cred. vs Controllate oltre;6,56;0;6,56;91,4;97,96;togliere
+   C.II.3. Cred. vs Collegate entro;8,02;0;8,02;41,93;49,95;togliere
+   C.II.3. Cred. vs Collegate oltre;6,56;0;6,56;90,32;96,87;togliere
+   C.II.4. Cred. vs Controllanti entro;8,02;0;8,02;84,06;92,08;togliere
+   C.II.4. Cred. vs Controllanti oltre;6,56;0;6,56;92,56;99,12;togliere
+   C.II.5. Cred. vs imprese sottoposte al controllo delle controllanti entro;40,03;0;40,03;58,75;98,78;togliere
+   C.II.5. Cred. vs imprese sottoposte al controllo delle controllanti oltre;38,97;0;38,97;60,89;99,86;togliere
+   C.II.5.bis. Cred. tributari entro;8,15;0;8,15;5,67;13,83;togliere
+   C.II.5.bis. Cred. tributari oltre;6,66;0;6,66;83,35;90,01;togliere
+   C.II.5.ter. Cred. per imposte anticipate entro;8,12;0;8,12;68,43;76,55;togliere
+   C.II.5.ter. Cred. per imposte anticipate oltre;6,66;0;6,66;46,14;52,8;togliere
+   C.II.5.quater. Cred. verso altri entro;8,02;0;8,02;3,13;11,15;togliere
+   C.II.5.quater. Cred. verso altri oltre;6,56;0;6,56;70,74;77,3;togliere
+   C.II. Crediti a breve;5,84;0;5,84;0,1;5,95;togliere
+   Crediti per imposte anticipate;100;0;100;0;100;togliere
+   C.II. Crediti a oltre;5,84;0;5,84;26,78;32,62;togliere
+  C.III. TOTALE ATTIVITA' FINANZIARIE;5,84;0;5,84;57,05;62,9;
+   C.III.1. Partec.ni in Controllate;7,1;0;7,1;91,81;98,91;togliere
+   C.III.2. Partec.ni in Collegate;7,07;0;7,07;92,76;99,83;togliere
+   C.III.3. Partec.ni in Controllanti;7,07;0;7,07;92,9;99,97;togliere
+   C.III.3.bis. Partec.ni in imprese sottoposte al controllo delle controllanti;39,18;0;39,18;60,82;100;togliere
+   C.III.4. Altre Partec.ni;7,07;0;7,07;90,25;97,32;togliere
+   C.III.4.bis. Azioni proprie;7,07;0;7,07;92,25;99,32;togliere
+   C.III.5. Strumenti finanziari derivati attivi;39,18;0;39,18;52,09;91,27;togliere
+   C.III.6. Altri titoli;7,07;0;7,07;71,49;78,56;togliere
+   C.III.7. Attività finanziarie per la gestione accentrata della tesoreria;39,18;0;39,18;52,74;91,91;togliere
+  C.IV. TOT. DISPON. LIQUIDE;5,84;0;5,84;0,14;5,98;
+   C.IV.1. Depositi bancari;23,07;0;23,07;1,05;24,13;togliere
+   C.IV.2. Assegni;23,11;0;23,11;71,8;94,9;togliere
+   C.IV.3. Denaro in cassa;23,11;0;23,11;22,12;45,23;togliere
+ D. RATEI E RISCONTI;5,84;0;5,84;17,43;23,28;
+  Disaggio su prestiti;68,74;0;68,74;30,89;99,63;togliere
+ A. TOTALE PATRIMONIO NETTO;2,41;0;2,41;0;2,41;
+  A.I. Capitale sociale;5,84;0;5,84;0;5,84;
+   di cui: Versamenti soci in c/capitale;48,9;0;48,9;46,48;95,38;togliere
+   di cui: Versamenti in c/futuro aumento di capitale;49,68;0;49,68;48,66;98,34;togliere
+   di cui: Versamenti in c/capitale;48,56;0;48,56;47,06;95,62;togliere
+   di cui: Versamenti a copertura perdite;50,08;0;50,08;49,03;99,12;togliere
+  A.II. Riserva da sovrapprezzo;5,84;0;5,84;38,91;44,75;togliere
+  A.III. Riserva di rivalutazione;5,84;0;5,84;76,25;82,09;togliere
+  A.IV. Riserva legale;5,88;0;5,88;12,61;18,48;
+  A.V. Riserva statutaria;5,84;0;5,84;92,05;97,89;togliere
+  Riserva azioni proprie;5,84;0;5,84;92,56;98,4;togliere
+  A.VI. Altre riserve;5,84;0;5,84;8,56;14,41;
+  Riserva da cons. del Gruppo;99,9;0;99,9;0,1;100;togliere
+  A.VII. Riserva per operazioni di copertura dei flussi finanziari attesi;38,57;0;38,57;44,51;83,08;togliere
+  A.VIII. Utile/perdita a nuovo;5,84;0;5,84;39,11;44,95;
+  A.IX. Utile/perdita di esercizio;5,84;0;5,84;0;5,84;
+   Acconto dividendi;46,79;0;46,79;53,21;100;togliere
+   Copertura parziale perdita di esercizio;46,79;0;46,79;53,21;100;togliere
+  A.X. Riserva negativa per azioni proprie in portafoglio (+/-);38,57;0;38,57;48,11;86,68;togliere
+  TOTALE PATRIMONIO DEL GRUPPO;99,9;0;99,9;0;99,9;togliere
+  Capitale e riserve di pertinenza di TERZI;99,9;0;99,9;0,1;100;togliere
+   di cui: per imposte differite;45,57;0;45,57;27,86;73,43;togliere
+  Utile/perdita di es. di pertinenza di TERZI;99,9;0;99,9;0,1;100;togliere
+  TOTALE PATRIMONIO DI TERZI;100;0;100;0;100;togliere
+ B. TOTALE FONDI RISCHI;5,84;0;5,84;22,12;27,96;
+  B.1. Fondo di Quiescenza;8,56;0;8,56;80,84;89,4;togliere
+  B.2. Fondo Imposte anche differite;8,53;0;8,53;48,56;57,08;togliere
+  B.3. Strumenti finanziari derivati passivi;39,55;0;39,55;39,52;79,07;togliere
+  B.4. Altri Fondi;8,53;0;8,53;39,65;48,18;togliere
+  di cui : fondo di consolidamento;100;0;100;0;100;togliere
+ C. TRATTAMENTO DI FINE RAPPORTO;5,84;0;5,84;5,47;11,31;
+ D. TOTALE DEBITI;5,84;0;5,84;0,03;5,88;
+  D.1. Obblig.ni entro;8,19;0;8,19;81,62;89,81;togliere
+  D.1. Obblig.ni oltre;7,48;0;7,48;77,57;85,05;togliere
+  D.2. Obblig.ni convert. entro;8,22;0;8,22;90,28;98,5;togliere
+  D.2. Obblig.ni convert. oltre.;7,51;0;7,51;89,64;97,15;togliere
+  D.3. Soci per Finanziamenti entro;8,29;0;8,29;86,03;94,33;togliere
+  D.3. Soci per Finanziamenti oltre;7,58;0;7,58;87,94;95,51;togliere
+  D.4. Banche entro l'esercizio;8,22;0;8,22;13,08;21,3;
+  D.4. Banche oltre l'esercizio;7,51;0;7,51;24,46;31,97;
+  D.5. Altri finanziatori entro;8,19;0;8,19;46,92;55,11;togliere
+  D.5. Altri finanziatori oltre;7,48;0;7,48;56,37;63,85;togliere
+  D.6. Acconti entro;8,19;0;8,19;60,82;69,01;togliere
+  D.6. Acconti oltre;7,48;0;7,48;90,83;98,3;togliere
+  D.7. Fornitori entro;8,19;0;8,19;0,34;8,53;
+  D.7. Fornitori oltre;7,51;0;7,51;89,13;96,64;togliere
+  D.8. Titoli di credito entro;8,22;0;8,22;91,1;99,32;togliere
+  D.8. Titoli di credito oltre;7,51;0;7,51;91,98;99,49;togliere
+  D.9. Imprese Controllate entro;8,19;0;8,19;61,98;70,17;togliere
+  D.9. Imprese Controllate oltre;7,48;0;7,48;87,39;94,87;togliere
+  D.10. Imprese Collegate entro;8,19;0;8,19;44,72;52,91;togliere
+  D.10. Imprese Collegate oltre;7,48;0;7,48;88,89;96,36;togliere
+  D.11. Controllanti entro;8,19;0;8,19;72,38;80,56;togliere
+  D.11. Controllanti oltre;7,48;0;7,48;91,37;98,84;togliere
+  D.11.bis. Debiti VS imprese sottoposte al controllo delle controllanti entro;40,2;0;40,2;58,72;98,91;togliere
+  D.11.bis. Debiti VS imprese sottoposte al controllo delle controllanti oltre;39,72;0;39,72;60,28;100;togliere
+  D.12. Debiti Tributari entro;8,26;0;8,26;3,23;11,48;togliere
+  D.12. Debiti Tributari oltre;7,48;0;7,48;80,9;88,38;togliere
+  D.13. Istituti previdenza entro;8,19;0;8,19;12,16;20,35;togliere
+  D.13. Istituti previdenza oltre;7,48;0;7,48;89,57;97,04;togliere
+  D.14. Altri Debiti entro;8,19;0;8,19;1,39;9,58;togliere
+  D.14. Altri Debiti oltre;7,48;0;7,48;67,72;75,2;togliere
+  D. DEBITI A BREVE;5,84;0;5,84;0,03;5,88;
+  D. DEBITI A OLTRE;5,84;0;5,84;11,25;17,09;
+  Total debiti entro l'esercizio;5,84;0;5,84;0,03;5,88;
+  Total debiti oltre l'esercizio;5,84;0;5,84;11,25;17,09;
+ E. RATEI E RISCONTI;5,84;0;5,84;28,24;34,08;
+  Aggio sui prestiti;60,35;0;60,35;39,62;99,97;togliere
+ TOTALE PASSIVO;0;0;0;0;0;
+ TOTALE CONTI D'ORDINE;5,84;0;5,84;84,47;90,32;togliere
+  Garanzie prestate;15,6;0;15,6;84,34;99,93;togliere
+ A. TOT. VAL. DELLA PRODUZIONE;0;0;0;0;0;
+  A.1. Ricavi vendite e prestazioni;0;0;0;4,01;4,01;
+  A.2. Var. rimanenze prodotti;6,08;0;6,08;64,56;70,64;togliere
+  A.3. Variazione lavori;6,08;0;6,08;85,73;91,81;togliere
+  A.2. + A.3. Totale Variazioni;5,95;0;5,95;59,7;65,65;togliere
+  A.4. Incrementi di immob.;5,84;0;5,84;70,06;75,91;togliere
+  A.5. Altri ricavi;5,84;0;5,84;5,54;11,38;
+  Contributi in conto esercizio;24,7;0;24,7;46,92;71,63;togliere
+ B. COSTI DELLA PRODUZIONE;5,84;0;5,84;0;5,84;
+  B.6. Materie prime e consumo;5,84;0;5,84;13,9;19,74;
+  B.7. Servizi;5,84;0;5,84;0,07;5,91;
+  B.8. Godimento beni di terzi;5,84;0;5,84;12,5;18,35;
+  B.9. Totale costi del personale;5,84;0;5,84;3,06;8,9;
+   B.9.a. Salari e stipendi;6,08;0;6,08;3,47;9,55;
+   B.9.b. Oneri sociali;6,08;0;6,08;13,83;19,91;
+   B.9.c. Tratt. fine rapporto;6,46;0;6,46;42,85;49,3;togliere
+   B.9.d. Tratt. di quiescenza;6,42;0;6,42;88,18;94,6;togliere
+   B.9.e. Altri costi;6,42;0;6,42;33,13;39,55;togliere
+   B.9.f. TFR + quiescenza + altri costi;6,18;0;6,18;12,5;18,69;
+  B.10. TOT Ammortamenti e svalut.;5,84;0;5,84;1,63;7,48;
+   B.10.a. Amm. Immob. Immat.;6,12;0;6,12;7,65;13,76;
+   B.10.b. Amm. Immob. Mat.;6,12;0;6,12;3,98;10,09;
+   B.10.c. Altre svalut. Immob.;6,12;0;6,12;82,3;88,41;togliere
+   B.10.a+b+c. Amm. e svalut. delle immob.;6,05;0;6,05;2,21;8,26;
+   B.10.d. Svalut. crediti;5,95;0;5,95;43,76;49,71;togliere
+  B.11. Variazione materie;5,84;0;5,84;58,31;64,15;togliere
+  B.12. Accantonamenti per rischi;5,88;0;5,88;63,47;69,35;togliere
+  B.13. Altri accantonamenti;5,84;0;5,84;89,47;95,31;togliere
+  B.14. Oneri diversi di gestione;5,84;0;5,84;3,06;8,9;
+ RISULTATO OPERATIVO;0;0;0;0;0;
+ Valore Aggiunto;0;0;0;0;0;
+ C. TOTALE PROVENTI E ONERI FINANZIARI;5,84;0;5,84;0,41;6,25;
+  C.15. Tot. proventi da partecip.;5,84;0;5,84;50,93;56,78;togliere
+  di cui: verso contr.anti, collegate, contr.te e sottoposte ctrl controllanti;100;0;100;0;100;togliere
+   di cui: da imprese controllanti;59,73;0;59,73;40,27;100;togliere
+   di cui: da imprese sottoposte al controllo delle controllanti;74,45;0;74,45;25,42;99,86;togliere
+  C.16. TOT Altri Proventi;5,84;0;5,84;6,15;11,99;togliere
+   C.16.a. Da Crediti;6,01;0;6,01;86,48;92,49;togliere
+    di cui: verso contr.anti, collegate, contr.te e sottoposte ctrl controllanti;100;0;100;0;100;togliere
+    di cui: da imprese sottoposte al controllo delle controllanti;72,51;0;72,51;27,25;99,76;togliere
+   C.16.b. Da titoli iscr. imm.;5,98;0;5,98;90,93;96,91;togliere
+   C.16.c. Da titoli iscr. att.circol.;5,98;0;5,98;86,82;92,8;togliere
+   C.16.b+c. Proventi da Titoli;6,12;0;6,12;84,23;90,35;togliere
+   C.16.d. Proventi fin. Diversi;6,01;0;6,01;7,51;13,52;togliere
+    di cui: verso contr.anti, collegate, contr.te e sottoposte ctrl controllantil;94,16;0;94,16;3,33;97,49;togliere
+  C.17. Totale Oneri finanziari;5,84;0;5,84;1,53;7,37;
+   di cui: verso contr.anti, collegate, contr.te e sottoposte ctrl controllanti;95,31;0;95,31;3,36;98,67;togliere
+  C.17.bis Utili e perdite su cambi;6,01;0;6,01;36,39;42,41;togliere
+ D. TOTALE RETTIFICHE ATT. FINANZ.;5,84;0;5,84;50,22;56,07;togliere
+  D.18. TOT Rivalutazioni;5,88;0;5,88;79,82;85,69;togliere
+   D.18.a. Rivalut. di partec.;7,78;0;7,78;85,25;93,03;togliere
+   D.18.b. Rivalut. di altre imm. fin.;7,75;0;7,75;91,81;99,56;togliere
+   D.18.c. Rivalut. di titoli;7,78;0;7,78;91;98,78;togliere
+   D.18.d. Rivalut. di strumenti finanziari derivati;39,99;0;39,99;55,22;95,21;togliere
+   Rivalut. di attività finanziarie per la gestione accentrata della tesoreria;39,99;0;39,99;60,01;100;togliere
+  D.19. TOT Svalutazioni;5,88;0;5,88;53,62;59,5;togliere
+   D.19.a. Svalut. di partec.;9,82;0;9,82;59,43;69,25;togliere
+   D.19.b. Svalut. di altre imm. fin.;9,82;0;9,82;87,16;96,98;togliere
+   D.19.c. Svalut. di titoli;9,85;0;9,85;87,73;97,59;togliere
+   D.19.d. Svalut. di strumenti finanziari derivati;40,67;0;40,67;52,02;92,69;togliere
+   Svalut. di attività finanziarie per la gestione accentrata della tesoreria;40,67;0;40,67;59,33;100;togliere
+ TOTALE PROVENTI/ONERI STRAORDINARI;5,84;0;5,84;47,23;53,08;togliere
+  Proventi Straordinari;5,88;0;5,88;58,51;64,39;togliere
+   di cui plusvalenze;23,72;0;23,72;68,47;92,18;togliere
+  Oneri Straordinari;5,91;0;5,91;59,36;65,27;togliere
+   di cui minusvalenze;20,66;0;20,66;73,8;94,46;togliere
+   di cui imposte esercizio precedente;20,66;0;20,66;73,12;93,78;togliere
+ RISULTATO PRIMA DELLE IMPOSTE;0;0;0;0;0;
+  20. Totale Imposte sul reddito correnti, differite e anticipate;5,84;0;5,84;4,35;10,19;
+   Imposte correnti;7,2;0;7,2;20,56;27,76;
+   Imposte relative a esercizi precedenti;39,08;0;39,08;49,75;88,82;togliere
+   Imposte differite e anticipate;7,17;0;7,17;28,03;35,2;togliere
+   Imposte differite (+/-);49,58;0;49,58;30,17;79,75;togliere
+   Imposte anticipate (+/-);42,47;0;42,47;22,8;65,27;togliere
+   Prov. (oneri) da adesione al regime di trasparenza fiscale;43,59;0;43,59;45,97;89,57;togliere
+  21. UTILE/PERDITA DI ESERCIZIO;0,31;0;0,31;0,03;0,34;
+  UTILE/PERDITA DI ESERCIZIO di pert. di TERZI;99,9;0;99,9;0,1;100;togliere
+  UTILE/PERDITA DI ESERCIZIO di pert. del GRUPPO;0,31;0;0,31;0,03;0,34;
+   - Indice di liquidità;5,88;1,77;7,65;0;7,65;
+   - Indice corrente;5,88;1,8;7,68;0;7,68;
+   - Indice di indebitam. a breve;5,88;0;5,88;0;5,88;
+   - Indice di indebitam. a lungo;5,88;0;5,88;12,95;18,82;
+   - Indice di copertura delle immob. (patrimoniale);5,84;0;5,84;14,58;20,42;
+   - Grado di ammortamento;61,4;2,07;63,47;0,27;63,74;togliere
+   - Rapporto di indebitamento;2,41;0;2,41;0;2,41;
+   - Indice di copertura delle immob. (finanziario);6,15;0,14;6,29;0;6,29;
+   - Debiti v/banche su fatt.;8,83;18,82;27,66;10,87;38,53;
+   - Costo denaro a prestito;19,33;9,28;28,61;0,54;29,15;
+   - Grado di copertura degli interessi passivi;7,37;27,56;34,93;0,1;35,03;
+   - Oneri finanz. su fatt.;6,49;6,46;12,95;2,38;15,32;
+   - Indice di indip. Finanz.;2,41;0,65;3,06;0;3,06;
+   - Grado di indip. da terzi;9,28;0;9,28;0;9,28;
+   - Posizione finanziaria netta;8,26;0;8,26;0;8,26;
+   - Debt/Equity ratio;8,26;0;8,26;10,87;19,13;
+   - Debt/EBITDA ratio;8,26;0,37;8,63;8,7;17,33;
+   - Rotaz. cap. investito (volte);0;0,27;0,27;6,35;6,63;
+   - Rotaz. cap. cir. lordo (volte);5,84;0,1;5,95;4,83;10,77;
+   - Incidenza circolante operativo;9,24;1,19;10,43;0,14;10,57;
+   - Giac. media delle scorte (gg);10,7;1,12;11,82;33,1;44,92;togliere
+   - Giorni copertura scorte (gg);23,89;7,03;30,92;22,26;53,18;togliere
+   - Durata media dei crediti al lordo IVA (gg);8,63;0,78;9,41;3,87;13,29;
+   - Durata media dei debiti al lordo IVA (gg);8,22;4,76;12,98;0,34;13,32;
+   - Durata Ciclo Commerciale (gg);24,77;9,72;34,49;0,1;34,59;
+   - EBITDA;5,84;0;5,84;0;5,84;
+   - EBITDA/Vendite;6,49;1,83;8,32;0;8,32;
+   - Redditività del totale attivo (ROA);0;0;0;0;0;
+   - Redditività di tutto il capitale investito (ROI);8,36;8,97;17,33;0,03;17,36;
+   - Redditività delle vendite (ROS);6,49;17,64;24,13;0;24,13;
+   - Redditività del capitale proprio (ROE);2,72;3,19;5,91;0,03;5,95;
+   - Incid. oneri/Proventi extrag. (%);0,85;28,54;29,39;0;29,39;
+   - Dipendenti;0,07;0;0,07;0,71;0,78;
+   - Ricavi pro-capite;8,97;2,48;11,45;0,03;11,48;
+   - Valore aggiunto pro-capite;3,16;14,17;17,33;0,54;17,87;
+   - Costo lavoro per addetto;8,97;13,25;22,22;0;22,22;
+   - Rendimento dipendenti;8,9;0,78;9,68;0,03;9,72;
+   - Capitale circolante netto;5,84;0;5,84;0;5,84;
+   - Margine sui consumi;6,08;0;6,08;1,94;8,02;
+   - Margine di tesoreria;8,02;0;8,02;0;8,02;
+   - Margine di struttura;5,84;1,43;7,27;0;7,27;
+   - Flusso di cassa di gestione;5,84;0;5,84;0;5,84;
+years;0;0;0;0;0;

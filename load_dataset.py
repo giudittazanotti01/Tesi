@@ -42,3 +42,4 @@ salva_csv_unico(dataframe_unito, cartella_destinazione, nome_file)
 
 print(f"File combinato salvato in: {os.path.join(cartella_destinazione, nome_file)}")
 print(dataframe_unito)
+
